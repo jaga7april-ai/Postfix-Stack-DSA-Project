@@ -2,8 +2,7 @@
 
 A web app that shows how a **stack** evaluates postfix (reverse Polish) expressions.
 
-**Live demo:** _paste your GitHub Pages link here_
-
+https://jaga7april-ai.github.io/Postfix-Stack-DSA-Project/
 ## DSA concept: Stack (LIFO)
 
 In postfix notation the operator comes after its operands, e.g. `3 4 + 2 *` means `(3 + 4) * 2`. A stack evaluates it with one left-to-right pass:
